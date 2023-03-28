@@ -9,9 +9,9 @@
 
 <a name="thongtinmonhoc"></a>
 ## Thông tin môn học
-* **Tên môn học**: Toán cho Khoa học Máy tính - Mathematics for Computer Science
-* **Mã môn học**: CS06
-* **Khoa quản lý**: Trí tuệ nhân tạo
+* **Tên môn học**: Trí tuệ nhân tạo - Artificial Intelligence
+* **Mã môn học**: CS106
+* **Khoa quản lý**: Khoa học máy tính
 * **Lớp học**: CS106.N21.KHCL
 * **Học kì**: 2
 * **Năm học**: 2022-2023
